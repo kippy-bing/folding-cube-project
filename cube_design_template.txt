@@ -1,0 +1,28 @@
+# Cube Design Template
+
+Use this template to describe your creative modifications to the folding cube.
+
+**Student Name:** [Your Name]
+
+**Branch Name:** [Your branch name]
+
+**Description of Your Design:**
+
+[Write a paragraph explaining what you changed or added to the cube. For example: "I painted each face a different color of the rainbow" or "I added small magnets to the blocks so the cube snaps shut."]
+
+**Materials Used:**
+
+- [List any extra materials you used]
+
+**Instructions for Recreating Your Design:**
+
+1. [Step 1]
+2. [Step 2]
+3. [Step 3]
+
+**Why This Design Is Special:**
+
+[Explain why you chose this design and how it makes your cube unique.]
+
+---
+*Remember to create a branch, edit this file (or create your own MY_DESIGN.md), and submit a pull request!*
